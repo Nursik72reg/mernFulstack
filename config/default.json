@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Nursultan",
+  "mongoUri": "mongodb+srv://nursultan:12345@cluster0.aev2i.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
